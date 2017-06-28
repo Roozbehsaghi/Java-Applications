@@ -1,0 +1,15 @@
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		int i = 0;
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		
+		String[] items = new String[n];
+		
+		for( i = 1; i <= n; i++) {
+			System.out.print(i+" ");
+			}
+		}
+	}
