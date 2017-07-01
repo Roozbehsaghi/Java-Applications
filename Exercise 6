@@ -1,0 +1,19 @@
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter an Integer number: ");
+		int key = sc.nextInt();
+		
+		if (key > 5)
+		{
+			System.out.println("Your number is bigger than 5");}
+		else if  (key < 5)
+			{
+				System.out.println("Your number is smaller  than 5");
+			} else {
+				System.out.println("Your number is exactly 5");
+			}
+		}
+		
+		}
