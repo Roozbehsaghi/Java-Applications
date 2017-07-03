@@ -19,3 +19,4 @@ Otherwise output "Your numer is bigger than 5."
 Ex7: Write a program which asks the user for a number as an input. 
 If the number is even, print out "The number is even". Otherwise print out "The number is odd"
 
+Ex 8: Write a program which asks the user for an input. As long as the input is NOT a number, the program says "The input is not a number. Please input a number." Once a number has been inputed, the Program says: "Congratulations. You typed in a number."
