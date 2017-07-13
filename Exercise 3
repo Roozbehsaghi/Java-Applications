@@ -1,3 +1,6 @@
+	3.Excercise: Your program takes a user input which is a number. Let's call this number n. 
+	Then an array with the size of n should be created, which contains the word "Salam" in each cell.
+	
 	public static void main(String[] args) {
 		
 		int i = 0;
