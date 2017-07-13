@@ -1,3 +1,6 @@
+	Ex7: Write a program which asks the user for a number as an input. If the number is even, print out "The number is even". 
+	Otherwise print out "The number is odd"
+	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
