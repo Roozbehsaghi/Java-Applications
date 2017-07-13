@@ -1,3 +1,6 @@
+	Ex6: Write a program which receives a user input. If the user input is less than 5, output "Your number is less than 5.". 
+	Otherwise output "Your numer is bigger than 5."
+	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
