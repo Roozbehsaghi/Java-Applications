@@ -1,3 +1,7 @@
+4th Excercise:
+Your program takes an user input which is a number. The number shall be called n. 
+Then an array of size n should be created filled with numbers 1 to n in increasing order.
+
 public class Test {
 	
 	public static void main(String[] args) {
